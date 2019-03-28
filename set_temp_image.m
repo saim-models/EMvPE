@@ -1,5 +1,7 @@
 function [cross,two, cross_two,cross_temp, two_temp] = set_temp_image()
-
+%
+% [cross,two, cross_two,cross_temp, two_temp] = set_temp_image()
+%
 
 
 cross_temp=[0,0,0,1,0,0,0;
