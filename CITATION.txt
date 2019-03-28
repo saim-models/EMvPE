@@ -1,7 +1,7 @@
 To reference this software in publications, please cite the following:
 
 Abadi, A. K. , Yahya, K., Amini, M., Friston, K. & Heinke, D. (2019) Excitatory versus inhibitory feedback in Bayesian formulations of scene construction, 
-The Royal Society Interface.
+Jorunal of the Royal Society Interface.
 
 @article{Abdi_et_al_2019,
     authors =  {Alireza Khatoon Abadi, Keyvan Yahya, Massoud Amini, Karl Friston, Dietmar Heinke},
