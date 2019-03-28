@@ -2,10 +2,7 @@ function h = plot_know(varargin)
 %PLOT_KNOW plots the time course of activation in the knowledge network.
 %
 %
-% Labels:
-% symbols
-% legends
-% step
+
 data = varargin{1};
 [timesteps number_templates] = size(data);
 time = ones(number_templates,1) * [1:timesteps];
