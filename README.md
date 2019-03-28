@@ -1,6 +1,6 @@
 
 This MatLab code produced the results in this paper: Abadi et al. (2019) Excitatory versus inhibitory feedback in Bayesian formulations of scene construction, 
-The Royal Society Interface.
+Journal of the Royal Society Interface.
 
 The main file is run_main.m
 
@@ -8,4 +8,4 @@ The code requires the subplot_tight.m from Matworks: https://uk.mathworks.com/ma
 
 
 
-D Heinke      27.3.2019
+D Heinke      28.3.2019
