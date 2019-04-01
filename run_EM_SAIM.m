@@ -1,4 +1,14 @@
 function [RT, node, y_KN, y_CN, y_SN, input_SN, input_CN, input_KN] = run_EM_SAIM(para, templates, input_image, seed)
+%
+% [RT, node, y_KN, y_CN, y_SN, input_SN, input_CN, input_KN] = run_EM_SAIM(para, templates, input_image, seed)
+%
+% Runs EM-SAIM
+%
+%   para: struct with all parameters
+%   templates: object templates
+%   input_image: input image
+%   seed: seed for random number generator
+%
 
 rng(seed)
 dbstop if error

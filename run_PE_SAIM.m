@@ -4,7 +4,7 @@ function [RT, node, y_KN, y_CN, y_SN, input_SN, input_CN, input_KN] = run_PE_SAI
 %
 % Runs PE-SAIM
 %
-%   para: struct with allparameters
+%   para: struct with all parameters
 %   templates: object templates
 %   input_image: input image
 %   seed: seed for random number generator
