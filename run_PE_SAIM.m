@@ -1,5 +1,14 @@
 function [RT, node, y_KN, y_CN, y_SN, input_SN, input_CN, input_KN] = run_PE_SAIM(para, templates, input_image, seed)
-
+%
+% [RT, node, y_KN, y_CN, y_SN, input_SN, input_CN, input_KN] = run_PE_SAIM(para, templates, input_image, seed)
+%
+% Runs PE-SAIM
+%
+%   para: struct with allparameters
+%   templates: object templates
+%   input_image: input image
+%   seed: seed for random number generator
+%
 RT = 0;
 node = 0;
 rng(seed)
